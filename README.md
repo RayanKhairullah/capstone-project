@@ -3,10 +3,9 @@
 ---
 
 #### Backend
-- [ API Expenses ](https://github.com/RayanKhairullah/CapstoneBE.git)
-- [ API Auth ](https://github.com/AgungADL/Capstone-backend-auth)
+- [ API Expenses & Auth ](https://github.com/RayanKhairullah/CapstoneBE.git)
 - [ API Challenges ](#)
 
 ---
   
-#### Backend
+#### Frontend
