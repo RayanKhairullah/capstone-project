@@ -43,7 +43,7 @@ Repositori utama ini merupakan pusat dokumentasi dan pengelolaan proyek, sedangk
 ### Desain & Mockup
 - **Figma Mockup:**  
   Tampilan antarmuka dan desain user experience yang menjadi acuan pengembangan Frontend.  
-  [Mockup Figma](https://www.figma.com/design/nTK6HvdhzN5ZJUR4XHBHfh/NeuroFinProject?node-id=0-1&p=f&t=q5cK5WgZxcEIteDg-0)
+  [Mockup Figma](https://www.figma.com/design/nTK6HvdhzN5ZJUR4XHBHfh/NeuroFinProject?node-id=0-1&t=omDSzzzZcoqrCJp0-1)
 
 ---
 
