@@ -6,7 +6,7 @@
 ## 1. Overview
 **NeuroFin** merupakan Proyek Capstone Program DicodingCamp 2025, berbasis kerja tim yang melibatkan 6 orang anggota, dari learning path Front-End & Back-End, dan Machine Learning. Proyek ini dilakukan secara daring, dengan rentang waktu pengerjaan dari **10 Maret sampai 16 April 2025**. Tujuan utama proyek ini adalah:
 - Meningkatkan kemampuan pemecahan masalah melalui pemanfaatan pengalaman belajar secara langsung.
-- Menghadapi permasalahan dunia nyata dengan solusi berbasis teknologi finansial.
+- Menghadapi permasalahan dunia nyata dengan solusi berbasis teknologi.
 - Menyediakan solusi inovatif untuk pengelolaan keuangan dan meningkatkan literasi keuangan bagi generasi muda.
 
 ---
@@ -28,7 +28,7 @@ Repositori utama ini merupakan pusat dokumentasi dan pengelolaan proyek, sedangk
   Repository yang menangani API untuk manajemen pengeluaran serta otentikasi pengguna.  
   [API Expenses & Auth](https://github.com/RayanKhairullah/CapstoneBE.git)
 - **API Challenges:**  
-  Repository untuk fitur challenges keuangan.  
+  Repository API untuk fitur challenges keuangan.  
   [API Challenges](#)
 
 ### Frontend
@@ -37,8 +37,7 @@ Repositori utama ini merupakan pusat dokumentasi dan pengelolaan proyek, sedangk
 
 ### Machine Learning
 - **Model & API:**  
-  [Model](#)
-
+  [Model](https://github.com/RayanKhairullah/neurofin-challenges)
 
 ### Desain & Mockup
 - **Figma Mockup:**  
