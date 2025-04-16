@@ -32,22 +32,29 @@ Repositori utama ini berisi dokumentasi dan pengelolaan proyek. Masing-masing ko
 ### Backend
 - **API Expenses & Auth:**  
   Menangani API untuk manajemen pengeluaran dan otentikasi pengguna.  
+
   🔗 [API Expenses & Auth](https://github.com/RayanKhairullah/CapstoneBE.git)
 - **API Challenges:**  
   Repository untuk API fitur challenges keuangan.  
+
   🔗 [API Challenges](#)
 
 ### Frontend
 - **Web Application:**  
+  Mengelola API dari backend dan meimplementasikan desain UI/UX dari figma.
+
   🔗 [Frontend](https://github.com/KevinSinatria/NeuroFin)
 
 ### Machine Learning
-- **Model & API:**  
+- **API Model:**  
+  Mengembangkan API dari model 🔗 [FinancialBERT-Sentiment-Analysis by ahmedrachid](https://huggingface.co/ahmedrachid/FinancialBERT-Sentiment-Analysis)
+
   🔗 [Model](https://github.com/RayanKhairullah/neurofin-challenges)
 
 ### Desain & Mockup
 - **Figma Mockup:**  
   Tampilan antarmuka dan desain user experience yang menjadi acuan pengembangan Frontend.  
+  
   🔗 [Mockup Figma](https://www.figma.com/design/nTK6HvdhzN5ZJUR4XHBHfh/NeuroFinProject?node-id=0-1&t=omDSzzzZcoqrCJp0-1)
 
 ---
